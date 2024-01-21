@@ -10,6 +10,7 @@ Running the example from the command hello test mysdsdsdsdsdsdasdasdasdasdeerwer
 $ mvn jetty:runheee  fcddd
 ``
 shshhshs
+to check the build trigger
 
 Open [http://localhost:8080/](http://localhost:8080/)
 
